@@ -1,6 +1,6 @@
 {
     "functions": {
-      "vercel.json": {
+      "wp-admin/vercel.json": {
         "runtime": "vercel-php@0.4.0"
       }
     }
